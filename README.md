@@ -4,7 +4,7 @@
 
 ### Dynamics 365 CE & Power Platform Techno-Functional Consultant
 
-I design practical, scalable customer-engagement solutions that connect business goals with the Microsoft business applications ecosystem.
+I design and deliver practical, scalable Dynamics 365 and Power Platform solutions that connect business requirements with reliable technical implementation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azam-hafeez-808324107)
 [![Website](https://img.shields.io/badge/Website-LITS.Services-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lits.services/)
@@ -20,8 +20,8 @@ My work spans discovery and solution design through configuration, custom develo
 ## Functional Expertise
 
 - **Dynamics 365 Sales** — lead-to-opportunity processes, pipeline management, activities, forecasting, and sales productivity
-- **Customer Service & Contact Center** — case management, routing, queues, SLAs, knowledge, agent experiences, and service operations
-- **Copilot Studio** — conversational experiences, topics, actions, orchestration, and business-system connectivity
+- **Customer Service & Contact Center** — case management, Email-to-Case, Customer Service Inbox, routing, queues, SLAs, and agent experiences
+- **Copilot Studio** — conversational experiences, topics, actions, Adaptive Cards, agent handoff and transfer, and orchestration
 - **Omnichannel** — digital engagement, workstreams, unified routing, agent capacity, and channel design
 - **Power Pages** — secure external experiences, self-service scenarios, and Dataverse-backed business processes
 - **Process optimization** — requirement analysis, fit-gap assessment, user journeys, adoption, and operational reporting
@@ -29,9 +29,9 @@ My work spans discovery and solution design through configuration, custom develo
 ## Technical Expertise
 
 - **Dataverse** — data modeling, security roles, business rules, solutions, and environment-aware architecture
-- **Power Automate** — cloud flows, approvals, event-driven automation, exception handling, and maintainable orchestration
+- **Power Automate** — Dataverse automation, integration flows, event-driven automation, and error and exception handling
 - **JavaScript Client API** — form behavior, command logic, validations, and model-driven app extensions
-- **C# Plugins** — server-side business logic, event pipeline design, validation, and reusable services
+- **Dataverse / Dynamics 365 Plugins** — C# server-side business logic, event pipeline design, validation, and reusable services
 - **PCF** — custom controls that improve usability and support specialized business interactions
 - **Integration design** — API-led patterns, data mapping, authentication considerations, resiliency, observability, and support models
 - **WhatsApp & Twilio** — messaging integrations and customer communication workflows
@@ -64,7 +64,7 @@ This profile will showcase reusable patterns and practical examples for:
 - Dynamics 365 Sales and Customer Service solution design
 - Copilot Studio and omnichannel customer experiences
 - Dataverse architecture and Power Automate orchestration
-- JavaScript, C# plugin, and PCF extensibility
+- JavaScript, Dataverse / Dynamics 365 plugins in C#, and PCF extensibility
 - Power Pages and secure external engagement
 - WhatsApp, Twilio, document generation, and enterprise integration patterns
 
